@@ -2,8 +2,6 @@
 # project: github tutorial
 # ---
 
-#test change
-
 # script purpose: make mtcars plots
 # ---
 
